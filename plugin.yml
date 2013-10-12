@@ -1,0 +1,9 @@
+name: gt
+main: me.inFAmas97.gt.gt
+version: 1.00
+description: Super Slap!
+            
+commands:
+  gt:
+    description: Super slap a player
+
